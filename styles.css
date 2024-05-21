@@ -579,7 +579,7 @@ button {
 }
 
 .home-img .img-box {
-  max-width: 360px;
+  max-width: 200px;
   background-color: var(--white-alpha-25);
   border-radius: 50%;
   border: 8px solid var(--white-alpha-25);
@@ -587,7 +587,7 @@ button {
 }
 
 .home-img .img-box img {
-  width: 100%;
+  width: 50%;
   border-radius: 50%;
 }
 
